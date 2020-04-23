@@ -20,3 +20,9 @@ python-pip
 cmake
 ninja
 ripgrep
+fzf
+gdb
+clang
+vim
+ruby
+nano
