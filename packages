@@ -26,3 +26,5 @@ clang
 vim
 ruby
 nano
+openssh
+mosh
